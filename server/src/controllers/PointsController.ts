@@ -18,7 +18,6 @@ class PointsController {
       .select('points.*');
 
     res.json(points);
-    
   }
 
   async show(req: Request, res: Response) {
