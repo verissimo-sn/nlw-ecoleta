@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="#sobre">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
 </p>
@@ -23,6 +22,7 @@
 <br>
 
 ### 🚀 Tecnologias
+---
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -31,6 +31,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### 💻 Projeto
+---
 
 O E-coleta é uma aplicação que conecta pessoas a locais de descarte de resíduos recicláveis, no intuito de ajudar a preservar o mundo 🌱
 
